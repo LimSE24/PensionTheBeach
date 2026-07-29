@@ -72,6 +72,7 @@ body {
 
 .gnb ul>li {
   padding-left: 30px;
+  color:#18345A;
 }
 
 /* main */
@@ -159,11 +160,13 @@ body {
   padding-bottom: 25px;
   font-size: 40px;
   text-align: left;
+  color:#06254E;
 }
 
 .room .room_text1 p {
   line-height: 30px;
   font-size: 20px;
+  color:#275087;
 }
 
 .room .room1 {
@@ -218,11 +221,13 @@ body {
   text-align: left;
   padding-bottom: 25px;
   font-size: 40px;
+  color:#06254E;
 }
 
 .roomImage2>.room_text2>p {
   line-height: 30px;
   font-size: 20px;
+  color:#275087;
 }
 
 /* 이벤트 페이지 */
@@ -302,6 +307,7 @@ body {
   align-items: center;
   gap: 10px;
   font-size: 25px;
+  color:#18345A;
 }
 
 .service_card1 {
