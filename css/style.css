@@ -289,6 +289,10 @@ body {
 }
 
 /* service */
+.title{
+  height:100px;
+  padding-top: 60px;
+}
 .service_card {
   width: 1280px;
   height: 620px;
